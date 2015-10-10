@@ -1,0 +1,26 @@
+body {
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+}
+
+h1 {
+	text-align: center;
+	color: #00ff00;
+}
+
+h2 {
+	color: #BDB76B;
+}
+
+p {
+	color: #0000ff;
+}
+
+a {
+	color: #FF69B4;
+}
+
+.images {
+	display: inline;
+	width: 400px;
+	height: 400px;
+}
